@@ -1,2 +1,2 @@
 # Solar-Powered-Controllable-Speed-Centrifugal-Machine
-this is the full system of [Sign Languange Project](https://github.com/Steve246/Sign-Languange-Recognition) 
+this is the full system of [Controlling-Motor-Speed-Using-Arduino-UNO](https://github.com/Exsel1ent/Controlling-Motor-Speed-Using-Arduino-UNO) which is my final year project. In this project, I made a centrifugation machine using cheap items and using a solar system as the main power source. This project is aimed at people or institutions who need a centrifuge but can't afford it because of the high price.
